@@ -7,4 +7,4 @@ install:
 script:
   - python -munittest test 
 notifications:
- email : vidya@shippable.com
+ email: vidya@shippable.com
